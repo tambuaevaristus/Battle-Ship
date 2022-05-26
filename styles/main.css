@@ -1,0 +1,31 @@
+ .cell {
+    
+    height: 70px;
+    width: 70px;
+    border: 2px solid red;
+    /* background-image: url(/assets/ship.png); */
+    background-repeat: no-repeat;
+    /* padding-top: 10px; */
+    background-position: center;
+    background-size: contain;
+
+
+  } 
+
+  table{ 
+   /* padding-top: 45px; */
+   /* margin-left: 215px; */
+   position: relative;
+  }
+  
+  .container{
+      padding-left: 123px;
+      padding-top: 170px;
+      width: 60%;
+      height: 90vh;
+      background-repeat: no-repeat;
+      background-image: url(/assets/board.jpg);
+      background-position: center;
+      background-size: contain;
+      
+  }
