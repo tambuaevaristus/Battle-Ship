@@ -81,7 +81,7 @@ view = {
 
       model.shipLocations.map((location) => {
         document.getElementById(location).setAttribute("data-state", "1");
-        document.getElementById(location).style.backgroundColor = "red";
+        // document.getElementById(location).style.backgroundColor = "red";
         // displayHit(location)
       });
     }
